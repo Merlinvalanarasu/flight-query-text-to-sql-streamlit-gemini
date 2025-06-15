@@ -4,12 +4,12 @@ A user-friendly web application that allows you to have a conversation with your
 
 ## **🔴 Project Status**
 
-This application is fully functional and can be run on a local machine by following the instructions below. A live web deployment is not yet available.
+This application is fully functional and can be run on a local machine by following the instructions below.
 
 ## **📸 Screenshot**
 
 A screenshot of the application running locally.  
-(You can replace the placeholder link below with the screenshot you upload to your GitHub repository)
+![App Screenshot](app_screenshot.png)
 
 ## **✨ Features**
 
